@@ -24,10 +24,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "ACLPlugin",
-			"Enabled": false
-		},
-		{
 			"Name": "AnimationData",
 			"Enabled": false
 		},
