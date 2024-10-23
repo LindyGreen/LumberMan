@@ -12,22 +12,6 @@
 			]
 		},
 		{
-			"Name": "N10XSourceCodeAccess",
-			"Enabled": false
-		},
-		{
-			"Name": "ActorSequence",
-			"Enabled": false
-		},
-		{
-			"Name": "AlembicImporter",
-			"Enabled": false
-		},
-		{
-			"Name": "AnimationData",
-			"Enabled": false
-		},
-		{
 			"Name": "ArchVisCharacter",
 			"Enabled": false
 		},
@@ -89,23 +73,20 @@
 			"Enabled": false
 		},
 		{
-			"Name": "ResonanceAudio",
-			"Enabled": false
-		},
-		{
-			"Name": "WebMMoviePlayer",
-			"Enabled": false
-		},
-		{
 			"Name": "WmfMedia",
 			"Enabled": false
 		},
 		{
-			"Name": "StateTree",
+			"Name": "AsyncLoadingScreen",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/01f39767dc6b4290877f38365787cbf8"
+		},
+		{
+			"Name": "Fracture",
 			"Enabled": true
 		},
 		{
-			"Name": "GameplayStateTree",
+			"Name": "Takes",
 			"Enabled": true
 		}
 	]
